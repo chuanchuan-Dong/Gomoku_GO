@@ -8,10 +8,12 @@ This project explores the development of an AI system capable of mastering Gomok
 * Refined Roll-out Policy: Limits search depth strategically to balance efficiency and effectiveness.
 
 * Strategic Gameplay: AI demonstrates a balance between offense and defense, recognizing traps and making optimal moves.
+### Test for Defence and Trap
+ ![Test for Defence and Trap](https://github.com/chuanchuan-Dong/Gomoku_GO/blob/master/pic1.png)
 
-* ![Test for Defence and Trap](https://github.com/chuanchuan-Dong/Gomoku_GO/blob/master/pic1.png)
+### Test for Attack
+![Test for Attack](https://github.com/chuanchuan-Dong/Gomoku_GO/blob/master/pic2.png)
 
-* ![Test for Attack](https://github.com/chuanchuan-Dong/Gomoku_GO/blob/master/pic2.png)
-
-* ![Test for Balance Attack and Defence](https://github.com/chuanchuan-Dong/Gomoku_GO/blob/master/pic3.png)
+### Test for Balance Between Attack and Defence
+![Test for Balance Between Attack and Defence](https://github.com/chuanchuan-Dong/Gomoku_GO/blob/master/pic3.png)
 
